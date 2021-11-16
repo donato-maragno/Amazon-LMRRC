@@ -22,4 +22,4 @@ The three main Python scripts: model_build.py, model_apply.py, and model_score.p
 They must be run sequentially using the bash command in the Linux Terminal, e.g., ```bash model_build.sh```.
 
 ## Get in touch!
-We welcome any questions or suggestions. Please submit an issue on Github, or reach us at m.ghosh@uva.nl, a.v.mahes@uva.nl, and d.maragno@uva.nl.
+We welcome any questions or suggestions. Please submit an issue on GitHub, or reach us at m.ghosh@uva.nl, a.v.mahes@uva.nl, and d.maragno@uva.nl.
