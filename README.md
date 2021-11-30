@@ -25,10 +25,10 @@ They must be run sequentially using the bash command in the Linux Terminal, e.g.
 Our software can be cited as:
 ````
 @misc{IILMR,
-	author = "Ghosh, Mayukh and Mahes, Roshan and Maragno, Donato",
-	title = "Incorporating Intuition in Last-Mile Routing",
-	year = 2021,
-	url = "https://github.com/donato-maragno/Amazon-LMRRC"
+author = "Ghosh, Mayukh and Mahes, Roshan and Maragno, Donato",
+title = "Incorporating Intuition in Last-Mile Routing",
+year = 2021,
+url = "https://github.com/donato-maragno/Amazon-LMRRC"
 }
 ````
 
