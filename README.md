@@ -21,5 +21,16 @@ The code is divided into three parts:
 The three main Python scripts: model_build.py, model_apply.py, and model_score.py require a Linux environment to be run. 
 They must be run sequentially using the bash command in the Linux Terminal, e.g., ```bash model_build.sh```.
 
+## Citation
+Our software can be cited as:
+````
+@misc{IILMR,
+	author = "Ghosh, Mayukh and Mahes, Roshan and Maragno, Donato",
+	title = "Incorporating Intuition in Last-Mile Routing",
+	year = 2021,
+	url = "https://github.com/donato-maragno/Amazon-LMRRC"
+}
+````
+
 ## Get in touch!
 We welcome any questions or suggestions. Please submit an issue on GitHub, or reach us at m.ghosh@uva.nl, a.v.mahes@uva.nl, and d.maragno@uva.nl.
