@@ -10,7 +10,7 @@ The proposed methodology has a two-level hierarchical structure. First, a zone (
 
 Within each zone, an OTSP is solved including forcing the first node to be the last of the previous zone, and the last node to be close to the center of the next zone. This gives a sense of direction in the resolution of the problem.
 
-We refer to our [paper]() for a detailed description of the methodology. 
+We refer to our [paper](https://arxiv.org/abs/2112.01937) for a detailed description of the methodology. 
 
 ## How the code is structured
 The code is divided into three parts:
